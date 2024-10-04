@@ -3,6 +3,7 @@
         "target": "ES6",
         "module": "CommonJS",
         "strict": true,
-        "moduleDetection": "force"
+        "moduleDetection": "force",
+        "lib": ["ES2016", "DOM"]
     }
 }
