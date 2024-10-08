@@ -4,6 +4,6 @@
         "module": "CommonJS",
         "strict": true,
         "moduleDetection": "force",
-        "lib": ["ES2016", "DOM"]
+        "lib": ["ES2017", "DOM"]
     }
 }
